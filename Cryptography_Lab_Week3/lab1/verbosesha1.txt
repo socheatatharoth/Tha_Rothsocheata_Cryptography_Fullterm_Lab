@@ -1,0 +1,5 @@
+=== Password cracking started (mode=sha1, target=aa1c7d931cf140bb35a5a16adeb83a551649c3b9, wordlist=wordlist.txt) ===
+2025/10/30 21:44:39 🔍 Starting SHA1 password cracking...
+2025/10/30 21:44:39 ✅ Password found: Princess1
+✅ Password found: Princess1
+=== Done ===
